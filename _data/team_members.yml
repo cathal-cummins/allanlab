@@ -1,7 +1,7 @@
 - name: Hannes P Saal
-  photo:
+  photo: hannes.jpg
   info: Senior Lecturer
-  email:
+  email: h.saal@sheffield.ac.uk
   description: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
 
 - name: Rodrigo Siqueira Kazu
@@ -19,5 +19,5 @@
 - name: Giulia Corniani
   photo:
   info: PhD student, Marie Curie fellow
-  email: 
+  email:
   description: Postdoc with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
