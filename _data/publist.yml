@@ -37,7 +37,7 @@
   highlight: 0
 
 - title: "Simulating tactile signals from the whole hand with millisecond precision"
-  image:
+  image: touchsim.png
   description: TouchSim is a Matlab package that simulates spiking responses from thousands of tactile afferents terminating on the palmar surface of the hand to arbitrary indentation of the skin
   authors: Saal HP, Delhaye BP, Rayhaun BC, Bensmaia SJ
   link:
