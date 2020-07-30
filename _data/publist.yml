@@ -1,0 +1,47 @@
+- title: "Tactile innervation densities across the whole body"
+  image:
+  description:
+  authors: Corniani G, Saal HP
+  link:
+    url: https://doi.org/10.1101/2020.04.27.063263
+    display:  bioRxiv:2020.04.27.063263 (2020)
+  highlight: 0
+
+- title: "Nonlinear scaling of resource allocation in sensory bottlenecks"
+  image:
+  description: We show that resource allocation scales nonlinearly in efficient coding models, when the width of the neural bottleneck is varied.
+  authors: Edmondson LR, Jimenez Rodriguez A, Saal HP
+  link:
+    url: http://papers.nips.cc/paper/8972-nonlinear-scaling-of-resource-allocation-in-sensory-bottlenecks
+    display: Advances in Neural Information Processing Systems (NeurIPS) 2019
+  highlight: 1
+  news1: Check out the <a href="https://figshare.shef.ac.uk/articles/poster/NeurIPS_2019_poster_Nonlinear_scaling_of_resource_allocation_in_sensory_bottlenecks/11298953">poster</a> and a <a href="https://www.youtube.com/watch?v=M6ohnt_6J9Q">3-minute video</a>, where Laura explains the findings.
+  news2:
+
+- title: "The effect of contact force on the responses of tactile nerve fibers to scanned textures"
+  image:
+  description:
+  authors: Saal HP, Suresh AK, Solorzano LE, Weber AI, Bensmaia SJ
+  link:
+    url: https://doi.org/10.1016/j.neuroscience.2017.08.024
+    display:  Neuroscience 389, 99-103 (2018)
+  highlight: 0
+
+- title: "Speed invariance of tactile texture perception"
+  image:
+  description:
+  authors: Boundy-Singer ZM, Saal HP, Bensmaia SJ
+  link:
+    url: https://doi.org/10.1016/j.neuroscience.2017.08.024
+    display:  Journal of Neurophysiology 118(4), 2371-2377 (2017)
+  highlight: 0
+
+- title: "Simulating tactile signals from the whole hand with millisecond precision"
+  image:
+  description: TouchSim is a Matlab package that simulates spiking responses from thousands of tactile afferents terminating on the palmar surface of the hand to arbitrary indentation of the skin
+  authors: Saal HP, Delhaye BP, Rayhaun BC, Bensmaia SJ
+  link:
+    url: https://doi.org/10.1073/pnas.1704856114
+    display:  PNAS 114(28), 5693-5702 (2017)
+  highlight: 1
+  news1:
