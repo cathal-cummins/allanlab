@@ -8,7 +8,7 @@
   highlight: 0
 
 - title: "Nonlinear scaling of resource allocation in sensory bottlenecks"
-  image: https://ActiveTouchLab.github.io/images/pubs/bottleneck.jpg
+  image: bottleneck.jpg
   description: We show that resource allocation scales nonlinearly in efficient coding models, when the width of the neural bottleneck is varied.
   authors: Edmondson LR, Jimenez Rodriguez A, Saal HP
   link:
@@ -37,7 +37,7 @@
   highlight: 0
 
 - title: "Simulating tactile signals from the whole hand with millisecond precision"
-  image: https://ActiveTouchLab.github.io/images/pubs/touchsim.png
+  image: touchsim.png
   description: TouchSim is a Matlab package that simulates spiking responses from thousands of tactile afferents terminating on the palmar surface of the hand to arbitrary indentation of the skin
   authors: Saal HP, Delhaye BP, Rayhaun BC, Bensmaia SJ
   link:
