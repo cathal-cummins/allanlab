@@ -8,7 +8,7 @@
   highlight: 0
 
 - title: "Nonlinear scaling of resource allocation in sensory bottlenecks"
-  image: bottleneck.PNG
+  image: bottleneck.jpg
   description: We show that resource allocation scales nonlinearly in efficient coding models, when the width of the neural bottleneck is varied.
   authors: Edmondson LR, Jimenez Rodriguez A, Saal HP
   link:
