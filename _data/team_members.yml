@@ -1,17 +1,17 @@
 - name: Hannes P Saal
-  photo: ./images/team/Hannes.jpg
+  photo: /images/team/Hannes.jpg
   info: Senior Lecturer
   email: h.saal@sheffield.ac.uk
   description: I use human psychophysics, computational modeling, and applied machine learning in order to elucidate the fundamental computations allowing us to make sense of our environment through touch.
 -
   name: Rodrigo Siqueira Kazu
-  photo: ./images/team/Rodrigo.png
+  photo: /images/team/Rodrigo.png
   info: Research Associate
   email: r.siqueiradesouza@sheffield.ac.uk
   description: I'm a research associate with experience in comparative neuroanatomy, cell culturing, multichannel electrophysiology and immunocytochemistry. Utilising my programming and data analysis/data modelling skills I'm working on the modelling of the responses of afferent fibres of the foot sole. In addition, I'm also a guest lecturer for the computational neuroscience module.
 -
   name: Laura R Edmondson
-  photo: ./images/team/Laura.png
+  photo: Laura.png
   info: PhD student, Teaching fellow
   email: lredmondson1@sheffield.ac.uk
   description: I am a PhD student supervised by Hannes Saal & Stuart Wilson. My research focuses on modelling somatosensory cortex using dimensionality reduction techniques and self-organising models. I am interested in the mechanisms which determine the topography and magnification of the hand seen in the primary somatosensory cortex of both humans and non-human primates.
