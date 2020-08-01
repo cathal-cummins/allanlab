@@ -8,4 +8,4 @@ permalink: /research/
 
 # Research
 
-{% jekyll-twitter-plugin https://twitter.com/ShefTouch maxwidth=500 limit=5 %}
+{% twitter https://twitter.com/ShefTouch maxwidth=500 limit=5 %}
