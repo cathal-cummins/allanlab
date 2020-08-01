@@ -8,4 +8,4 @@ permalink: /
 
 The Active Touch Laboratory uses methods in animal behaviour, neuroethology, human psychophysics, computational modelling and robotics to investigate tactile sensing in animals, people and intelligent machines.
 
-{% twitter https://twitter.com/jekyllrb maxwidth=500 limit=5 %}
+
