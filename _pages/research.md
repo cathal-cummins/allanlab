@@ -8,7 +8,4 @@ permalink: /research/
 
 # Research
 
-{% plugin_type twitter_url %}
-
-# Example for timeline of the **jekyllrb** user with a maximum of 5 Tweets and with a width of 500px
 {% jekyll-twitter-plugin https://twitter.com/ShefTouch maxwidth=500 limit=5 %}
