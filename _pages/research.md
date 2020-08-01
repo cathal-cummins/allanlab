@@ -9,9 +9,4 @@ tweets: https://twitter.com/ShefTouch
 
 # Research
 
-
-{% for tweet in page.tweets %}
-  {% twitter tweet align=right width=350 %}
-{% endfor %}
-
-{% twitter page.a_tweet %}
+{% twitter https://twitter.com/ShefTouch maxwidth=500 limit=5 %}
