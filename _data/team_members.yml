@@ -32,17 +32,17 @@
   name: Zimeng Wan
   photo: Zimeng.png
   info: CCN MSc student
-  email:
+  email: zwan5@sheffield.ac.uk
   description: I am a MSc Cognitive and Computational Neuroscience student. My research focuses on markerless tracking of hand movement, especially grasping and manipulation. I investigate the hand kinematic mechanism through developing and testing computational methods based on deep learning techniques.
 -
   name: Jonathan Jones
   photo: John.png
   info: CCN MSc student
-  email:
+  email: jsjones1@sheffield.ac.uk
   description: I am a Masters student in Cognitive and Computational Neuroscience. My research concerns investigating how deep convolutional neural networks transform the geometric and statistical structure of internal neural representations of input datasets as a simple model for sensory processing. These models are particularly relevant to studying sensory representations, as representations in late layers of deep convolutional networks trained for categorisation have been shown to exhibit a high degree of similarity with human fMRI data from IT cortex.
 -
   name: Nicholas Garside
   photo: Nick.png
   info: CCN MSc student
-  email:
+  email: NLGarside1@sheffield.ac.uk
   description: My MSc research project explores the theory behind tactile distance biases and aftereffects, which occur when the perceived tactile distance is greater than the actual distance. I will attempt to explain how these biases can arise from the cortical receptive field structure, through modelling the neural encoding and decoding of touch stimuli.
