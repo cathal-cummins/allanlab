@@ -1,48 +1,73 @@
 -
   name: Hannes P Saal
   photo: Hannes.jpg
-  info: Senior Lecturer
+  status: Senior Lecturer
   email: h.saal@sheffield.ac.uk
+  uni-website: https://www.sheffield.ac.uk/psychology/people/academic/hannes-saal
+  twitter: SuperHannes
+  github: hsaal
+  gscholar: 1eUtNKIAAAAJ
+  orcid: 0000-0002-7544-0196
   description: I use human psychophysics, computational modeling, and applied machine learning in order to elucidate the fundamental computations allowing us to make sense of our environment through touch.
 -
   name: Rodrigo Siqueira Kazu
   photo: Rodrigo.png
-  info: Research Associate
+  status: Research Associate
   email: r.siqueiradesouza@sheffield.ac.uk
+  uni-website: 
+  twitter: rodrigo_kazu
+  github: 
+  gscholar: 9L_gpmUAAAAJ
+  orcid: 
   description: I'm a research associate with experience in comparative neuroanatomy, cell culturing, multichannel electrophysiology and immunocytochemistry. Utilising my programming and data analysis/data modelling skills I'm working on the modelling of the responses of afferent fibres of the foot sole. In addition, I'm also a guest lecturer for the computational neuroscience module.
 -
   name: Laura R Edmondson
   photo: Laura.png
-  info: PhD student, Teaching fellow
+  status: PhD student, Teaching fellow
   email: lredmondson1@sheffield.ac.uk
+  uni-website:
+  twitter: lauraredmondson
+  github: lauraredmondson
+  gscholar: 6Sp5UCkAAAAJ
+  orcid: 
   description: I am a PhD student supervised by Hannes Saal & Stuart Wilson. My research focuses on modelling somatosensory cortex using dimensionality reduction techniques and self-organising models. I am interested in the mechanisms which determine the topography and magnification of the hand seen in the primary somatosensory cortex of both humans and non-human primates.
 -
   name: Giulia Corniani
   photo: Giulia.png
-  info: PhD student, Marie Curie fellow
+  status: PhD student, Marie Curie fellow
   email: gcorniani1@sheffield.ac.uk
+  uni-website:
+  twitter: CornianiGiulia
+  github:
+  gscholar:
+  orcid: 0000-0003-2800-3329
   description: I am a PhD student supervised by Hannes Saal. I am part of the <a href="https://neutouch.eu/">NeuTouch</a> project, included in the EU Horizon 2020 research and innovation programme. My research focuses on the spiking models of realistic human tactile interactions. I am interested in the development of a computational method that translates sensor input into spiking output to deliver realistic and real-time tactile feedback for neuroprosthetics and robotics.
 -
   name: Luke Cleland
   photo: Luke.jpg
-  info: CCN MSc student
+  status: CCN MSc student
   email: ldcleland1@sheffield.ac.uk
+  uni-website:
+  twitter: cleland_luke
+  github:
+  gscholar:
+  orcid:
   description: I am currently a student on the <a href="https://www.sheffield.ac.uk/postgraduate/taught/courses/2020/cognitive-and-computational-neuroscience-msc">Cognitive and Computational Neuroscience Masters</a>. My research focuses on proprioception and relates to the representation of the hand in the somatotosensory cortex. I investigate how the representation in the brain may change depending on the use of the hand.
 -
   name: Zimeng Wan
   photo: Zimeng.png
-  info: CCN MSc student
+  status: CCN MSc student
   email: zwan5@sheffield.ac.uk
   description: I am a MSc Cognitive and Computational Neuroscience student. My research focuses on markerless tracking of hand movement, especially grasping and manipulation. I investigate the hand kinematic mechanism through developing and testing computational methods based on deep learning techniques.
 -
   name: Jonathan Jones
   photo: John.png
-  info: CCN MSc student
+  status: CCN MSc student
   email: jsjones1@sheffield.ac.uk
   description: I am a Masters student in Cognitive and Computational Neuroscience. My research concerns investigating how deep convolutional neural networks transform the geometric and statistical structure of internal neural representations of input datasets as a simple model for sensory processing. These models are particularly relevant to studying sensory representations, as representations in late layers of deep convolutional networks trained for categorisation have been shown to exhibit a high degree of similarity with human fMRI data from IT cortex.
 -
   name: Nicholas Garside
   photo: Nick.png
-  info: CCN MSc student
+  status: CCN MSc student
   email: NLGarside1@sheffield.ac.uk
   description: My MSc research project explores the theory behind tactile distance biases and aftereffects, which occur when the perceived tactile distance is greater than the actual distance. I will attempt to explain how these biases can arise from the cortical receptive field structure, through modelling the neural encoding and decoding of touch stimuli.
