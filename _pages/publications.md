@@ -9,6 +9,8 @@ permalink: /publications/
 
 # Publications
 
+See also Hannes' [Google Scholar](https://scholar.google.com/citations?user=1eUtNKIAAAAJ&hl=en) page.
+
 ## Highlights
 
 {% assign number_printed = 0 %}
