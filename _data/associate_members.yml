@@ -1,13 +1,21 @@
 - name: Stuart Wilson
   photo: Stuart.png
   email: s.p.wilson@sheffield.ac.uk
-  info: Lecturer
+  status: Lecturer
+  uni-website: http://spwilson.staff.shef.ac.uk/
+  twitter:
+  github:
+  gscholar: uWLCFdAAAAAJ
+  orcid:
   description: My research explores the interaction between evolution and development in the context of mammalian somatosensory systems. In particular, I am interested in how self-organisation can interact with natural selection in the context of i) self-organisation of topological maps in rodent barrel cortex, ii) self-organising thermoregulatory huddling behaviours in rodent litters.
-  link: http://spwilson.staff.shef.ac.uk/
 
 - name: Tony Prescott
   photo: Tony.png
   email: T.J.Prescott@sheffield.ac.uk
-  info: Professor
+  status: Professor
+  uni-website: https://www.sheffield.ac.uk/dcs/people/academic/tony-prescott
+  twitter: tonyjprescott
+  github:
+  gscholar: u2T4wjgAAAAJ
+  orcid:
   description: I investigate active touch sensing in animals, humans and robots, focusing on (i) the evolution of the mammalian somatosensory system, (ii) multisensory perception and memory, (iii) haptic interaction and emotional touch in biomimetic robots, and (iv) haptic interfaces for sensory augmentation and telepresence.
-  link: https://www.sheffield.ac.uk/dcs/people/academic/tony-prescott
