@@ -44,4 +44,4 @@
     url: https://doi.org/10.1073/pnas.1704856114
     display:  PNAS 114(28), 5693-5702 (2017)
   highlight: 1
-  news1:
+  news1: "Download the [Matlab](https://github.com/BensmaiaLab/touchSim) or [Python](https://github.com/hsaal/touchsim) version of TouchSim or try it out online via [myBinder](https://mybinder.org/v2/gh/hsaal/touchsim/master?filepath=touchsim_demo.ipynb)."
