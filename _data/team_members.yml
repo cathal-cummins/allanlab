@@ -8,7 +8,7 @@
   github: hsaal
   gscholar: 1eUtNKIAAAAJ
   orcid: 0000-0002-7544-0196
-  description: I use human psychophysics, computational modeling, and applied machine learning in order to elucidate the fundamental computations allowing us to make sense of our environment through touch.
+  description: I studied <a href="https://www.ikw.uni-osnabrueck.de/en/home.html">Cognitive Science</a> at the University of Osnabrück, Germany. After an internship at the <a href="https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-8017">German Aerospace Center (DLR)</a>, I obtained an MSc and PhD in Neuroinformatics at the <a href="https://www.ed.ac.uk/informatics">University of Edinburgh</a>. I was then a postdoctoral scholar in <a href="https://bensmaialab.github.io/">Sliman Bensmaia's lab</a> at the University of Chicago, before joining the <a href="https://www.sheffield.ac.uk/psychology">University of Sheffield</a> to set up my own lab. For most of my career I have worked on the sense of touch, using methods from computational neuroscience, robotics, and machine learning.
 -
   name: Rodrigo Siqueira Kazu
   photo: Rodrigo.png
@@ -58,13 +58,13 @@
   photo: Zimeng.png
   status: CCN MSc student
   email: zwan5@sheffield.ac.uk
-  description: I am a MSc Cognitive and Computational Neuroscience student. My research focuses on markerless tracking of hand movement, especially grasping and manipulation. I investigate the hand kinematic mechanism through developing and testing computational methods based on deep learning techniques.
+  description: I am a MSc <a href="https://www.sheffield.ac.uk/postgraduate/taught/courses/2020/cognitive-and-computational-neuroscience-msc">Cognitive and Computational Neuroscience</a> student. My research focuses on markerless tracking of hand movement, especially grasping and manipulation. I investigate the hand kinematic mechanism through developing and testing computational methods based on deep learning techniques.
 -
   name: Jonathan Jones
   photo: John.png
   status: CCN MSc student
   email: jsjones1@sheffield.ac.uk
-  description: I am a Masters student in Cognitive and Computational Neuroscience. My research concerns investigating how deep convolutional neural networks transform the geometric and statistical structure of internal neural representations of input datasets as a simple model for sensory processing. These models are particularly relevant to studying sensory representations, as representations in late layers of deep convolutional networks trained for categorisation have been shown to exhibit a high degree of similarity with human fMRI data from IT cortex.
+  description: I am a Masters student in <a href="https://www.sheffield.ac.uk/postgraduate/taught/courses/2020/cognitive-and-computational-neuroscience-msc">Cognitive and Computational Neuroscience</a>. My research concerns investigating how deep convolutional neural networks transform the geometric and statistical structure of internal neural representations of input datasets as a simple model for sensory processing. These models are particularly relevant to studying sensory representations, as representations in late layers of deep convolutional networks trained for categorisation have been shown to exhibit a high degree of similarity with human fMRI data from IT cortex.
 -
   name: Nicholas Garside
   photo: Nick.png

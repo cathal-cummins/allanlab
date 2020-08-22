@@ -4,9 +4,9 @@
   status: Lecturer
   uni-website: http://spwilson.staff.shef.ac.uk/
   twitter:
-  github:
+  github: stuartwilson
   gscholar: uWLCFdAAAAAJ
-  orcid:
+  orcid: 0000-0001-8125-5133
   description: My research explores the interaction between evolution and development in the context of mammalian somatosensory systems. In particular, I am interested in how self-organisation can interact with natural selection in the context of i) self-organisation of topological maps in rodent barrel cortex, ii) self-organising thermoregulatory huddling behaviours in rodent litters.
 
 - name: Tony Prescott
@@ -17,5 +17,5 @@
   twitter: tonyjprescott
   github:
   gscholar: u2T4wjgAAAAJ
-  orcid:
+  orcid: 0000-0003-4927-5390
   description: I investigate active touch sensing in animals, humans and robots, focusing on (i) the evolution of the mammalian somatosensory system, (ii) multisensory perception and memory, (iii) haptic interaction and emotional touch in biomimetic robots, and (iv) haptic interfaces for sensory augmentation and telepresence.
