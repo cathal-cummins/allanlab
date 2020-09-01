@@ -10,7 +10,7 @@ permalink: /
 
 The Active Touch Laboratory uses methods in psychophysics, computational modelling, and robotics to investigate tactile sensing in people and intelligent machines.
 
-We are based at the [University of Sheffield](https://www.sheffield.ac.uk/) in the [Department of Psychology](https://www.sheffield.ac.uk/psychology). We are also affiliated with Sheffield Robotics, [INSIGNEO Institute for *in silico* Medicine](https://insigneo.org/), and the [Neuroscience Institute](https://www.sheffield.ac.uk/neuroscience-institute).
+We are based at the [University of Sheffield](https://www.sheffield.ac.uk/) in the [Department of Psychology](https://www.sheffield.ac.uk/psychology). We are also affiliated with [Sheffield Robotics](https://www.sheffield.ac.uk/sheffieldrobotics), [INSIGNEO Institute for *in silico* Medicine](https://insigneo.org/), and the [Neuroscience Institute](https://www.sheffield.ac.uk/neuroscience-institute).
 
 ## Skin mechanics and neural coding
 
