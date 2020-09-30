@@ -1,11 +1,12 @@
 - title: "Tactile innervation densities across the whole body"
-  image:
-  description:
+  image: innervation.png
+  description: This paper contains estimates for innervation densities of low-threshold mechanoreceptive afferents across the whole body, based on evidence from microneurography, histology, and immunohistochemistry.
   authors: Corniani G, Saal HP
   link:
-    url: https://doi.org/10.1101/2020.04.27.063263
-    display:  bioRxiv:2020.04.27.063263 (2020)
-  highlight: 0
+    url: https://doi.org/10.1152/jn.00313.2020
+    display:  Journal of Neurophysiology 124 (2020)
+  highlight: 1
+  news1: Check out the <a href="https://figshare.shef.ac.uk/articles/dataset/Supplemental_data_for_Tactile_innervation_densities_across_the_whole_body/12753650">Supplementary Material</a> for detailed calculations.
 
 - title: "Nonlinear scaling of resource allocation in sensory bottlenecks"
   image: bottleneck.jpg
