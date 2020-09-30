@@ -49,9 +49,6 @@ See also Hannes' [Google Scholar](https://scholar.google.com/citations?user=1eUt
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
-
-
 ## Full List
 
 {% for publi in site.data.publist %}
