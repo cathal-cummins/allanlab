@@ -14,7 +14,7 @@
   photo: Rodrigo.png
   status: Research Associate
   email: r.siqueiradesouza@sheffield.ac.uk
-  uni-website: 
+  uni-website:
   twitter: rodrigo_kazu
   github: rodrigokazu
   gscholar: 9L_gpmUAAAAJ
@@ -55,7 +55,12 @@
   description: I am a PhD student, part of the MRC <a href="https://www.dimen.org.uk">DiMeN</a> DTP. My research involves the investigation of tactile processing in the foot along with investigating different gait variables. I have previously worked on computational modelling of homeostatic plasticity in the somatosensory cortex in the context of touch.
 -
   name: Zijun Li
-  photo: Placeholder.png
+  photo: Zijun.png
   status: PhD Student
   email: zli241@sheffield.ac.uk
-  description: 
+  uni-website:
+  twitter: zijunli12
+  github:
+  gscholar:
+  orcid: 0000-0002-7343-2686
+  description: I am a PhD student supervised by Hannes Saal. I am principally interested in modelling the development of the human somatotopy. My research also involves neuroimaging and psychophysical approaches.
