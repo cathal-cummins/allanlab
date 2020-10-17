@@ -1,3 +1,12 @@
+- title: "Malleability of the cortical hand map following a finger nerve block"
+  image:
+  description:
+  authors: Wesselink DB, Sanders Z, Edmondson LR, Dempsey-Jones H, Kieliba P, Kikkert S, Themistocleous AC, Emir U, Diedrichsen J, Saal HP, Makin TR
+  link:
+    url: https://doi.org/10.1101/2020.10.16.338640
+    display:  bioRxiv 2020.10.16.338640 (2020)
+  highlight: 0
+
 - title: "Tactile innervation densities across the whole body"
   image: innervation.png
   description: This paper contains estimates for innervation densities of low-threshold mechanoreceptive afferents across the whole body, based on evidence from microneurography, histology, and immunohistochemistry.
