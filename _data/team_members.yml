@@ -64,3 +64,14 @@
   gscholar:
   orcid: 0000-0002-7343-2686
   description: I am a PhD student supervised by Hannes Saal. I am principally interested in modelling the development of the human somatotopy. My research also involves neuroimaging and psychophysical approaches.
+-
+  name: Jinzhao Wang
+  photo: Jinzhao.jpg
+  status: CCN MSc Student
+  email: JWang315@sheffield.ac.uk
+  uni-website:
+  twitter: 
+  github:
+  gscholar:
+  orcid: 
+  description: I am a MSc student on the <a href="https://www.sheffield.ac.uk/postgraduate/taught/courses/2021/cognitive-and-computational-neuroscience-msc">Cognitive and Computational Neuroscience</a> program. My research interests focus on constructing computational models inspired by neural architectures or brain activities. My current project uses computer vision to reconstruct skin movements during object interaction.
