@@ -86,3 +86,14 @@
   gscholar: W0AAAAJ
   orcid:
   description: I am an MSc student in <a href="https://www.sheffield.ac.uk/postgraduate/taught/courses/2021/cognitive-and-computational-neuroscience-msc">Cognitive and Computational Neuroscience</a> at the University of Sheffield. I am interested in neuroengineering and neurorobotics. I have experience in neural networks, deep learning and programming. My research project is related to methods for markerless tracking of the fingertips during hand movement.
+-
+  name: Lucy Bradbury
+  photo: Lucy.png
+  status: CCN MSc Student
+  email:
+  uni-website:
+  twitter:
+  github:
+  gscholar:
+  orcid:
+  description: I am an MSc student on the Cognitive and Computational Neuroscience course, and I completed my undergraduate degree in Mechanical Engineering, also at the University of Sheffield. My masters project will investigate how tactile feedback from the feet helps with our balance and reflexes, specifically in diseases where sensory feedback is damaged, such as peripheral neuropathy.
