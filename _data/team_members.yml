@@ -1,5 +1,5 @@
 -
-  name: Hannes P Saal
+  name: Dr Hannes P Saal
   photo: Hannes.jpg
   status: Senior Lecturer
   email: h.saal@sheffield.ac.uk
@@ -10,12 +10,12 @@
   orcid: 0000-0002-7544-0196
   description: I studied <a href="https://www.ikw.uni-osnabrueck.de/en/home.html">Cognitive Science</a> at the University of Osnabrück, Germany. After an internship at the <a href="https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-8017">German Aerospace Center (DLR)</a>, I obtained an MSc and PhD in Neuroinformatics at the <a href="https://www.ed.ac.uk/informatics">University of Edinburgh</a>. I was then a postdoctoral scholar in <a href="https://bensmaialab.github.io/">Sliman Bensmaia's lab</a> at the University of Chicago, before joining the <a href="https://www.sheffield.ac.uk/psychology">University of Sheffield</a> to set up my own lab. For most of my career I have worked on the sense of touch, using methods from computational neuroscience, robotics, and machine learning.
 -
-  name: Rodrigo Siqueira Kazu
+  name: Dr Rodrigo Siqueira Kazu
   photo: Rodrigo.png
   status: Research Associate
   email: r.siqueiradesouza@sheffield.ac.uk
-  uni-website:
-  twitter: rodrigo_kazu
+  uni-website: https://www.sheffield.ac.uk/psychology/postgraduate/international
+  twitter: DrRodrigoKazu
   github: rodrigokazu
   gscholar: 9L_gpmUAAAAJ
   orcid: 0000-0002-3511-6439
