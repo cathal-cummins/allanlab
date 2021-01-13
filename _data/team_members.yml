@@ -39,7 +39,7 @@
   uni-website:
   twitter: CornianiGiulia
   github:
-  gscholar:
+  gscholar: qyQ9xX0AAAAJ
   orcid: 0000-0003-2800-3329
   description: I am a PhD student supervised by Hannes Saal. I am part of the <a href="https://neutouch.eu/">NeuTouch</a> project, included in the EU Horizon 2020 research and innovation programme. My research focuses on the spiking models of realistic human tactile interactions. I am interested in the development of a computational method that translates sensor input into spiking output to deliver realistic and real-time tactile feedback for neuroprosthetics and robotics.
 -
@@ -73,5 +73,16 @@
   twitter: 
   github:
   gscholar:
-  orcid: 
+  orcid:
   description: I am a MSc student on the <a href="https://www.sheffield.ac.uk/postgraduate/taught/courses/2021/cognitive-and-computational-neuroscience-msc">Cognitive and Computational Neuroscience</a> program. My research interests focus on constructing computational models inspired by neural architectures or brain activities. My current project uses computer vision to reconstruct skin movements during object interaction.
+-
+  name: Jesus Rivero Ortega
+  photo: Jesus.png
+  status: CCN MSc Student
+  email: jdriveroortega1@sheffield.ac.uk
+  uni-website:
+  twitter:
+  github:
+  gscholar: W0AAAAJ
+  orcid:
+  description: I am an MSc student in <a href="https://www.sheffield.ac.uk/postgraduate/taught/courses/2021/cognitive-and-computational-neuroscience-msc">Cognitive and Computational Neuroscience at the University of Sheffield. I am interested in neuroengineering and neurorobotics. I have experience in neural networks, deep learning and programming. My research project is related to methods for markerless tracking of the fingertips during hand movement.
