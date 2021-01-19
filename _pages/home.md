@@ -12,6 +12,8 @@ The Active Touch Laboratory uses methods in psychophysics, computational modelli
 
 We are based at the [University of Sheffield](https://www.sheffield.ac.uk/) in the [Department of Psychology](https://www.sheffield.ac.uk/psychology). We are also affiliated with [Sheffield Robotics](https://www.sheffield.ac.uk/sheffieldrobotics), [INSIGNEO Institute for *in silico* Medicine](https://insigneo.org/), and the [Neuroscience Institute](https://www.sheffield.ac.uk/neuroscience-institute).
 
+Our research is funded by the [Wellcome Trust](https://wellcome.org/), the [European Union](https://ec.europa.eu/programmes/horizon2020/en), and the [Medical Research Council](https://mrc.ukri.org/).
+
 ## Skin mechanics and neural coding
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/Mechanics.png" width="22%" style="float: left; margin-right:10px" />
