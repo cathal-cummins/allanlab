@@ -107,4 +107,15 @@
   github:
   gscholar:
   orcid:
-  description: I am an MSc student on the <a href="https://www.sheffield.ac.uk/postgraduate/taught/courses/2021/cognitive-and-computational-neuroscience-msc">Cognitive and Computational Neuroscience course</a>. I previously worked as a software engineer following my undergraduate degree in Engineering. My masters project looks at how peripheral neuropathy in the feet affects tactile feedback and reflexes in gait and balance.
+  description: I am an MSc student on the <a href="https://www.sheffield.ac.uk/postgraduate/taught/courses/2021/cognitive-and-computational-neuroscience-msc">Cognitive and Computational Neuroscience course</a>. I previously worked as a software engineer following my undergraduate degree in Engineering. My masters project looks at how peripheral neuropathy in the feet affects tactile feedback and reflexes in gait and balance.  
+-
+  name: Tom Graham
+  photo: Tom.JPG
+  status: CCN MSc Student
+  email: TAGraham1@sheffield.ac.uk
+  uni-website:
+  twitter:
+  github:
+  gscholar:
+  orcid:
+  description: I am an MSc student on the <a href="https://www.sheffield.ac.uk/postgraduate/taught/courses/2021/cognitive-and-computational-neuroscience-msc">Cognitive and Computational Neuroscience course</a> at the University of Sheffield, and I completed my undergraduate degree in Psychology and Philosophy at the University of Oxford. My MSc research project will investigate how convolutional neural networks learn sub-optimal 'shortcut' strategies for image classification, and how architectural or dataset modifications can prevent shortcut learning.
