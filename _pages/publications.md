@@ -49,9 +49,18 @@ See also Hannes' [Google Scholar](https://scholar.google.com/citations?user=1eUt
 </div>
 {% endif %}
 
-## Full List
+## Recent publications
 
 {% for publi in site.data.publist %}
+
+  <strong>{{ publi.title }} </strong><br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+
+## Publications prior to 2016
+
+{% for publi in site.data.oldpublist %}
 
   <strong>{{ publi.title }} </strong><br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
