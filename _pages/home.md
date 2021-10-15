@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Maxwell Institute at Heriot-Watt University](https://www.maxwell.ac.uk/). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+Our research group is based [Maxwell Institute at Heriot-Watt University](https://www.maxwell.ac.uk/). We investigate problems in fluid mechanics where the flows defy intuition. We aim to explain these flow phenomena using rigorous mathematical methods and exploit their mechanisms for technological applications.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
