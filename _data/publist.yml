@@ -15,7 +15,7 @@
   link:
     url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
     display:  Phys. Rev. Research 3, 013153 (2021)
-  highlight: 1
+  highlight: 0
   news2: See also [arXiv:2107.14716](https://arxiv.org/abs/2107.14716)
 
 - title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
@@ -25,7 +25,7 @@
   link:
     url: https://arxiv.org/abs/2101.08535
     display: arXiv:2101.08535 (2021)
-  highlight: 1
+  highlight: 0
 
 - title: "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45"
   image: YSR.png
@@ -34,7 +34,7 @@
   link:
     url: https://www.nature.com/articles/s41467-020-20529-x
     display:  Nature Communications 12, 298 (2021)
-  highlight: 1
+  highlight: 0
 
 - title: "Multi-Atom Quasiparticle Scattering Interference for Superconductor Energy-Gap Symmetry Determination"
   image: TBG_ARPES.png
@@ -54,7 +54,7 @@
   link:
     url: https://www.nature.com/articles/s41567-020-01041-x
     display:  Nature Physics 17, 198 (2020)
-  highlight: 1
+  highlight: 0
   news2: News coverage by <a href="https://www.nrc.nl/nieuws/2020/09/28/slome-elektronen-maken-grafeen-supergeleidend-a4013840"> NRC </a>
 
 - title: "Direct comparison of ARPES, STM, and quantum oscillation data for band structure determination in Sr2RhO4"
@@ -64,7 +64,7 @@
   link:
     url: https://www.nature.com/articles/s41535-020-00292-4
     display:  npj Quantum Materials 5, 91 (2020)
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Fabrication of on-chip probes for double-tip scanning tunneling microscopy"
@@ -94,7 +94,7 @@
   link:
     url: https://www.nature.com/articles/s41586-019-1408-8
     display:  Nature 571, 541 (2019)
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
@@ -104,7 +104,7 @@
   link:
     url: https://iopscience.iop.org/article/10.1088/1361-6528/ab1c7f/pdf
     display: Nanotechnology 30, 335702 (2019)
-  highlight: 1
+  highlight: 0
   news2: See also our papers on the theoretical modeling of such measurements, and the paper about fabrication.
 
 - title: "Imaging doubled shot noise in a Josephson scanning tunneling microscope"
@@ -114,7 +114,7 @@
   link:
     url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.104506
     display:  Phys. Rev. B 100, 104506 (2019)
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Definition of design guidelines, construction and performance of an ultra-stable scanning tunneling microscope for spectroscopic imaging"
@@ -124,7 +124,7 @@
   link:
     url: https://aip.scitation.org/doi/10.1063/1.5064442
     display:  Rev. Sci. Instrum. 89, 123705 (2018)
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
@@ -134,7 +134,7 @@
   link:
     url: https://www.nature.com/articles/s41567-018-0300-z
     display:  Nature Physics 14, 1183 (2018)
-  highlight: 1
+  highlight: 0
   news1: <a href="https://aip.scitation.org/doi/10.1063/1.5043267">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>
   news2: See also <a href="http://www.quantumuniverse.nl/een-isolerende-supergeleider"> quantum universe </a> (in dutch), <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>, <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news</a>, <a href="http://iop.uva.nl/content/news/2018/10/noise-helps-physicists-discover-insulating-phenomenon-in-superconductor.html"> UvA news<a>.
 
@@ -177,7 +177,7 @@
   link:
     url: https://scipost.org/SciPostPhys.3.2.010/pdf
     display: SciPost Phys. 3, 010 (2017)
-  highlight: 1
+  highlight: 0
 
 - title: Poor electronic screening in lightly doped Mott insulators observed with scanning tunneling microscopy
   image: TIBB.png
@@ -199,7 +199,7 @@
   link:
     url: http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3894.html
     display: Nature Physics 13, 21 (2017)
-  highlight: 1
+  highlight: 0
   news2: See also <a href="https://www.universiteitleiden.nl/en/news/2016/09/melting-of-frozen-electrons-visualized"> Leiden University news </a> by Erik Arends, <a href="http://phys.org/news/2016-09-frozen-electrons-visualized.html"> Phys.org </a>
 
 - title: Identifying the fingerprint of antiferromagnetic spin fluctuations in iron pnictide superconductors
@@ -211,7 +211,7 @@
   link:
     url: http://www.nature.com/nphys/journal/v11/n2/full/nphys3187.html
     display: Nature Physics 11, 177 (2015)
-  highlight: 1
+  highlight: 0
   news1:
   news2: See also <a href="http://www.news.cornell.edu/stories/2015/01/high-temperature-superconductor-fingerprint-found"> Cornell Chronicle </a> by Anne Ju, <a href="http://phys.org/news/2015-01-high-temperature-superconductor-fingerprint.html"> Phys.org </a>
 
@@ -249,7 +249,7 @@
   link:
     url: http://iopscience.iop.org/1367-2630/15/6/063029
     display: New Journal of Physics 15, 063029 (2013)
-  highlight: 1
+  highlight: 0
   news: <a style="color:#FF0000; text-decoration:underline" href="http://iopscience.iop.org/1367-2630/15/6/063029"> Video abstract available</a>
 
 - title: Anisotropic impurity states, quasiparticle scattering and nematic transport in underdoped Ca(Fe1−xCox)2As2
@@ -258,7 +258,7 @@
     We elucidate on the formation of the electronic nematic state in Co-CaFe2As2, finding that the Cobalt dopant atoms play a key role.
   authors:
     MP Allan, T-M Chuang, F Massee, Y Xie, N Ni, SL Bud’ko, GS Boebinger, Q Wang, DS Dessau, PC Canfield, MS Golden, JC Davis
-  highlight: 1
+  highlight: 0
   link:
     url: http://www.nature.com/nphys/journal/v9/n4/full/nphys2544.html
     display: Nature Physics 9, 220 (2013)
@@ -273,7 +273,7 @@
   link:
     url: http://www.sciencemag.org/content/336/6081/563
     display: Science 336, 563 (2012)
-  highlight: 1
+  highlight: 0
   news2: See also <a href="http://www.news.cornell.edu/stories/2012/05/new-clues-how-iron-superconductors-work"> Cornell Cornincle </a> by Bill Steele, <a href="http://www.eurekalert.org/pub_releases/2012-05/dnl-avo050312.php"> Eureka Alert </a>
 
 - title: How Kondo-holes create intense nanoscale heavy-fermion hybridization disorder
@@ -295,7 +295,7 @@
   link:
     url: http://www.sciencemag.org/content/327/5962/181
     display: Science 327, 181 (2010)
-  highlight: 1
+  highlight: 0
   news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a>
   news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
 
@@ -329,7 +329,7 @@
   link:
     url: http://www.nanoscalereslett.com/content/2/2/94
     display: Nanoscale Research Letters 2, 94 (2007)
-  highlight: 1
+  highlight: 0
 
 - title: Photoelectron Diffraction for a Look inside Nanostructures
   image: dummy.png
