@@ -6,8 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Our research group is based [Maxwell Institute at Heriot-Watt University](https://www.maxwell.ac.uk/). We investigate problems in fluid mechanics where the flows defy intuition. We aim to explain these flow phenomena using rigorous mathematical methods and exploit their mechanisms for technological applications.
-
+Our research group is based at the [Maxwell Institute at Heriot-Watt University](https://www.maxwell.ac.uk/). We investigate problems in fluid mechanics where the flows defy intuition. We aim to explain these flow phenomena using rigorous mathematical methods and exploit their mechanisms for technological applications.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
