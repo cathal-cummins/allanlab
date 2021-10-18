@@ -8,15 +8,15 @@
   highlight: 1
   news2: News coverage by MSNBC <a href="https://www.nbcnews.com/nightly-news/video/how-scientists-test-face-mask-effectiveness-against-coronavirus-85552709675"> Nightly News </a>
 
-- title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"
+- title: "The dispersion of spherical droplets in source–sink flows and their relevance to the COVID-19 pandemic"
   image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: T Benschop *, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
+  description: 
+  authors: C Cummins, OJ Ajayi, FV Mehendale, R Gabl, IM Viola
   link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  Phys. Rev. Research 3, 013153 (2021)
-  highlight: 0
-  news2: See also [arXiv:2107.14716](https://arxiv.org/abs/2107.14716)
+    url: https://aip.scitation.org/doi/full/10.1063/5.0021427
+    display:  Physics of Fluids 32, 083302 (2020)
+  highlight: 1
+  news2: See also [arXiv:2007.05298](https://arxiv.org/abs/2007.05298)
 
 - title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
   image: TiNHigh.png
