@@ -1,6 +1,6 @@
 - title: "Face coverings, aerosol dispersion and mitigation of virus transmission risk"
   image: Fig_10_person_heavyBreath_surgicalMask_Front-Down-Brow-Crown-Back_Jets.png
-  description: How effective are face coverings at preventing the spread of aerosol?
+  description: How effective are face coverings at preventing the spread of aerosol? Our was cited in the UK Government’s Scientific Advisory Group on Emergencies (SAGE) report as evidence of mask protection against SARS-CoV-2. The results from our experimental fluid mechanics tests on face coverings directly influenced policy change on face coverings on public transport, which became mandatory on public transport in England as soon as the SAGE report was published and two weeks later the Scottish government announced the same. 
   authors: IM Viola, B Peterson, G Pisetta, G Pavar, H Akhtar, F Menoloascina, E Mangano, KE Dunn, R Gabl, A Nila, E Molinari, C Cummins, G Thompson, TYM Lo, FC Denison, P Digard, O Malik, MJG Dunn, CM McDougall, FV Mehendale
   link:
     url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9329130
@@ -10,7 +10,7 @@
 
 - title: "The dispersion of spherical droplets in source–sink flows and their relevance to the COVID-19 pandemic"
   image: Dispersion.png
-  description: 
+  description: We present a mathematical model that gives a straightforward explanation of how airborne diseases such as Covid-19 can spread during breathing and clinical procedures, known as aerosol generating procedures. This paper is part of the Special Topic, Flow and the Virus and it was selected as a Feature Article for the issue of Physics of Fluids and has been covered by more than 100 news outlets worldwide. The findings underpinned a Contraflow project funded by CENSIS.
   authors: C Cummins, OJ Ajayi, FV Mehendale, R Gabl, IM Viola
   link:
     url: https://aip.scitation.org/doi/full/10.1063/5.0021427
