@@ -26,7 +26,7 @@ Our research group is based at the [Maxwell Institute at Heriot-Watt University]
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/streamlines_apc.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ExperimentLiquidBridge.png" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
