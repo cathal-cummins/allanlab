@@ -98,12 +98,12 @@
   news2:
 
 - title: "Why do bubbles in Guinness sink?"
-  image: dummy.png
-  description: 
+  image: Guinness.png
+  description: Did you ever wonder why you needed to wait 119.56 seconds for your pint of Guinness? You guessed it -- it's due to a vortex!
   authors: E Benilov, C Cummins, W Lee
   link:
     url: https://aapt.scitation.org/doi/abs/10.1119/1.4769377
     display: American Journal of Physics 81, 88 (2013)
-  highlight: 0
+  highlight: 1
   news2:  See also [arXiv:1205.5233](https://arxiv.org/abs/1205.5233)
 
