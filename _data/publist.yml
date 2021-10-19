@@ -1,5 +1,5 @@
 - title: "Face coverings, aerosol dispersion and mitigation of virus transmission risk"
-  image: Fig_10_person_heavyBreath_surgicalMask_Front-Down-Brow-Crown-Back_Jets.png
+  image: mask.png
   description: How effective are face coverings at preventing the spread of aerosol? Our was cited in the UK Government’s Scientific Advisory Group on Emergencies (SAGE) report as evidence of mask protection against SARS-CoV-2. The results from our experimental fluid mechanics tests on face coverings directly influenced policy change on face coverings on public transport, which became mandatory on public transport in England as soon as the SAGE report was published and two weeks later the Scottish government announced the same. 
   authors: IM Viola, B Peterson, G Pisetta, G Pavar, H Akhtar, F Menoloascina, E Mangano, KE Dunn, R Gabl, A Nila, E Molinari, C Cummins, G Thompson, TYM Lo, FC Denison, P Digard, O Malik, MJG Dunn, CM McDougall, FV Mehendale
   link:
@@ -9,7 +9,7 @@
   news2: See also [arXiv:2005.10720](https://arxiv.org/abs/2005.10720). News coverage by MSNBC <a href="https://www.nbcnews.com/nightly-news/video/how-scientists-test-face-mask-effectiveness-against-coronavirus-85552709675"> Nightly News </a>
 
 - title: "The dispersion of spherical droplets in source–sink flows and their relevance to the COVID-19 pandemic"
-  image: Dispersion.png
+  image: dispersion.png
   description: We present a mathematical model that gives a straightforward explanation of how airborne diseases such as Covid-19 can spread during breathing and clinical procedures, known as aerosol generating procedures. This paper is part of the Special Topic, Flow and the Virus and it was selected as a Feature Article for the issue of Physics of Fluids and has been covered by more than 100 news outlets worldwide. The findings underpinned a Contraflow project funded by CENSIS.
   authors: C Cummins, OJ Ajayi, FV Mehendale, R Gabl, IM Viola
   link:
@@ -28,7 +28,7 @@
   highlight: 0
 
 - title: "A separated vortex ring underlies the flight of the dandelion"
-  image: HaloVortexRingLiftsDandelionSeedsWithClouds.png
+  image: dandy.png
   description: Why does nature give its tiniest fliers parachutes that are 90% empty space? The key is in the separated vortex ring, which we report for the first time in this paper.
   authors: C Cummins, M Seale, Alice Macente, Daniele Certini, Enrico Mastropaolo, Ignazio Maria Viola, Naomi Nakayama
   link:
@@ -98,7 +98,7 @@
   news2:
 
 - title: "Why do bubbles in Guinness sink?"
-  image: Guinness.png
+  image: pint.png
   description: Did you ever wonder why you needed to wait 119.56 seconds for your pint of Guinness? You guessed it -- it's due to a vortex!
   authors: E Benilov, C Cummins, W Lee
   link:
