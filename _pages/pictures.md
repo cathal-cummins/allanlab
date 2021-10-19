@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Pictures"
+title: "Contraflow Group - Pictures"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "Contraflow Group -- Pictures"
 permalink: /pictures/
 ---
 
