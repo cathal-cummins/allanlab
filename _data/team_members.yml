@@ -16,6 +16,7 @@
   number_educ: 2
   education1: MSc Mathematics, Bayero University, Kano
   education2: BTech(Hons) Mathematics, Abubakar Tafawa Balewa University, Bauchi
+  education3: Supported by a <a href="https://ptdf.gov.ng/">PTDF</a> scholarship
 
 - name: Benjian Song
   photo: rock.jpg
@@ -24,7 +25,7 @@
   number_educ: 2
   education1: MSc in Petroleum Engineering, China University of Petroleum
   education2: BSc in Petroleum Engineering, China University of Petroleum
-  
+  education3: Supported by a <a href="https://www.csc.edu.cn/">CSC</a> scholarship
 
 - name: "This could be you !"
   photo: rock.jpg
