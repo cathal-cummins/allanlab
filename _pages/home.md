@@ -35,7 +35,7 @@ Our research group is based at the [Maxwell Institute at Heriot-Watt University]
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/dispersion.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/wec.png" alt="Slide 5" />
         </div>       
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 6" />
