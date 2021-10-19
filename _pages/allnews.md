@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Contraflow Group at Heriot-Watt University."
 sitemap: false
 permalink: /allnews.html
 ---
