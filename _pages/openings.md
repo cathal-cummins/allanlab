@@ -18,5 +18,5 @@ All applicants to the University will be asked to demonstrate a level of English
 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/dandey.png" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/dandy.png" width="95%">
 </figure>
