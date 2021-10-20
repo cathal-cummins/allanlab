@@ -12,6 +12,7 @@ Our research is in interdisciplinary fluid mechanics, and we specialise in the i
 
 **Interfacial and multiphase flows.** When two or more phases meet, the resulting interface forms a capillary surface such a bubble, drop, or liquid bridge. Our research on drops and liquid bridges focuses on the effect of the contact line (the curve forming the triple fluid-gas-solid interface) on the dynamics of the capillary
 surface. Our research on bubbles explores the dynamics of bubbles in buoyancy-driven flows.
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/pull-up.png){: style="width: 250px; float: right; margin: 0px  10px"}
 
 *Infinite liquid bridges*
 
@@ -26,19 +27,14 @@ A related problem of contact lines involves a liquid drop sliding down an inclin
 
 Our research on multiphase flow explores the motion of two inter-penetrating phases. It has long been known that the bubbles in stout beers sink for about two minutes in a freshly poured pint of Guinness. However, the mechanism that causes the bubbles to sink remained a mystery. Our research revealed that the glass geometry and bubble size conspire to sink the bubbles. Based on this work, we are currently developing a theory of vortex-based microparticle capture, which may be useful to filter microplastics from
 the ocean. Our future research will elucidate the mechanism that causes waves (such as the remarkable “Guinness cascade”) to form in multiphase flow.
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/pint.png){: style="width: 250px; float: right; margin: 0px  10px"}
 
 **Biological flows**.
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/dandy.png){: style="width: 250px; float: left; margin: 0px  10px"}
 Evolution finds ingenious ways to achieve locomotion through fluids at a wide range of Reynolds numbers (Re): from corkscrewing spermatozoa to the autorotation of maple seeds. Our research focuses on the interplay between low- and intermediate-Re regimes, where we aim to uncover the convergent hydrodynamic strategies to propulsion that nature has evolved.
 
 Our research on the flight of lightweight seeds uses analytical (boundary integral methods), numerical (direct numerical simulations), and physical modelling (wind tunnel tests) to uncover their incredibly efficient flight mechanism. Our groundbreaking research revealed an entirely new class of vortex, which enhances the flight capacity of the seed. We aim to explore the interplay between the two Re regimes, which will uncover novel strategies for locomotion, and may underlie weight reduction and particle retention of biological and man-made structures. This is of fundamental importance to the navigation of microrobots used for human diagnostics and offers a particle capture solution to the microplastics that litter the Earth’s oceans.
 
-**Wave-structure interaction** Wave energy is a promising technology to tackle the energy “grand challenges” facing the planet. My research in wave energy focuses on the hydrodynamics of Wave Energy Converters (WECs).16–19 Simplified hydrodynamic models (Boundary Element Methods, BEMs) are currently used to model the dynamics of WECs. However, this approach neglects viscous effects, and overestimates the power capture of WECs, particularly in resonant conditions (solid curves in Fig. 3).
-
-By including the effects of viscosity in BEMs,18, 19 my research leads the way forward for the modelling of WECs, giving realistic power predictions (broken curves in Fig. 3),
-without the need for CFD. 
-
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
+**Wave-structure interaction** ![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/Oyster.png){: style="width: 250px; float: left; margin: 0px  10px"} Wave energy is a promising technology to tackle the energy “grand challenges” facing the planet. Our research in wave energy focuses on the hydrodynamics of Wave Energy Converters (WECs). Simplified hydrodynamic models (Boundary Element Methods, BEMs) are currently used to model the dynamics of WECs. However, this approach neglects viscous effects, and overestimates the power capture of WECs, particularly in resonant conditions. We pioneer a method that includes effects of viscosity in BEM, which leads the way forward for the modelling of WECs, giving realistic power predictions without the need for CFD. 
 
 ### ... and more.
