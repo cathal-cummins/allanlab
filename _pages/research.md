@@ -20,7 +20,7 @@ Evolution finds ingenious ways to achieve locomotion through fluids at a wide ra
 Our research on the flight of lightweight seeds uses analytical (boundary integral methods), numerical (direct numerical simulations), and physical modelling (wind tunnel tests) to uncover their incredibly efficient flight mechanism. Our groundbreaking research revealed an entirely new class of vortex, which enhances the flight capacity of the seed. We aim to explore the interplay between the two Re regimes, which will uncover novel strategies for locomotion, and may underlie weight reduction and particle retention of biological and man-made structures. This is of fundamental importance to the navigation of microrobots used for human diagnostics and offers a particle capture solution to the microplastics that litter the Earth’s oceans.
 
 
-**Interfacial and multiphase flows**. ![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/dispersion.png){: style="width: 250px; float: left; margin: 0px  10px"} 
+**Interfacial and multiphase flows**. ![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/dispersion.png){: style="width: 250px; float: right; margin: 0px  10px"} 
 When two or more phases meet, the resulting interface forms a capillary surface such a bubble, drop, or liquid bridge. Our research on drops and liquid bridges focuses on the effect of the contact line (the curve forming the triple fluid-gas-solid interface) on the dynamics of the capillary surface. Our research on multiphase flows explores the dynamics of bubbles in buoyancy-driven flows and the dispersion of respiratory droplets, with applications for the spread of infections diseases.
 
 
@@ -31,8 +31,7 @@ stability.
 *Vibrating drops*.
 A related problem of contact lines involves a liquid drop sliding down an inclined solid substrate. Conventional wisdom suggests that shaking the substrate in the vertical direction would cause the drop to move faster downhill or fly off entirely. However, experiments show that drops given enough of a shake can climb uphill, against gravity. But what enabled this climbing was not previously understood. We performed an asymptotic analysis of the governing equations, which revealed the climbing mechanism to be the nonlinear interaction of vibration modes in the drop’s free surface. Our future research will examine the effect of CAH on the migration of droplets over substrates, especially under vibration.
 
-*Sinking bubbles*.
-![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/pint.png){: style="width: 250px; float: right; margin: 0px  10px"} 
+*Sinking bubbles*. ![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/pint.png){: style="width: 250px; float: left; margin: 0px  10px"} 
 Our research on multiphase flow explores the motion of two inter-penetrating phases. It has long been known that the bubbles in stout beers sink for about two minutes in a freshly poured pint of Guinness. However, the mechanism that causes the bubbles to sink remained a mystery. Our research revealed that the glass geometry and bubble size conspire to sink the bubbles. Based on this work, we are currently developing a theory of vortex-based microparticle capture, which may be useful to filter microplastics from
 the ocean. Our future research will elucidate the mechanism that causes waves (such as the remarkable “Guinness cascade”) to form in multiphase flow.
 
