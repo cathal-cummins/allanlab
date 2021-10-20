@@ -8,38 +8,36 @@ permalink: /research/
 
 # Research
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+Our research is in interdisciplinary fluid mechanics, and we specialise in the interaction of fluids with solid bodies; in particular, those that lead to counter-intuitice flow phenomena and the formation of coherent flow structures. Our research has three overarching themes: (A) Interfacial and multiphase flows, (B) biological flows, and (C) wave-structure interaction. Our research methods are characterised by the use of analytical, numerical, and physical modelling.
 
-Our goal is to build instruments and develop techniques that enable us to address the questions we find most interesting. This is possible thanks also to Milan's broad background with different research themes and technologies: he learned his trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where he investigated coupled cavity arrays in circuit QED. We further have group members with different background and interests, working together on physics and instrumentation.
+**Interfacial and multiphase flows.** When two or more phases meet, the resulting interface forms a capillary surface such a bubble, drop, or liquid bridge. Our research on drops and liquid bridges focuses on the effect of the contact line (the curve forming the triple fluid-gas-solid interface) on the dynamics of the capillary
+surface. Our research on bubbles explores the dynamics of bubbles in buoyancy-driven flows.
 
-Here are some themes and techniques that we currently work on:
+*Infinite liquid bridges*
 
-**Scanning tunneling noise spectroscopy (STNS).** We have developed a novel cryogenic MHz amplifier that allows us to measure not only the average tunneling current, but also its fluctuation! This has many applications: one can detect the fluctuations of the electronic states, peculiar tunneling processes, and shot noise. We have used this instrument to discover charge trapping in the insulating layer of the cuprates, connected to the c-axis mystery, and to measure the doubling of the charge due to Andreev processes to the superfluid in a lead sample.
+A classical problem in the study of capillary surfaces is the Rayleigh-Plateau instability, which is responsible for the breakup of liquid jets in kitchen sinks or the liquid bridge that can form between your fingertips. A related type of liquid bridge is formed when you dip your finger into water and pull upwards; such a capillary surface was previously shown to be unstable. Using variational approaches to stability, we proved that Contact Angle Hystersis (CAH) must stabilize infinite liquid bridges. This revealed a completely new perspective on the stability of liquid bridges and has far-reaching implications for the stability of capillary surfaces in general. CAH is found almost anywhere there is a contact line, and many “classical results” may need to be revised in light of our findings. Our future research on this problem will explore how CAH stabilizes classically unstable surfaces, in particular under the influence of vibration (see Vibrating drops). We will seek to unify the variational and bifurcational approach to
+stability.
 
+*Vibrating drops*
 
-**Mott physics and high-temperature superconductivity.** Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? We have worked on iridates, rhodates, and cuprates.
+A related problem of contact lines involves a liquid drop sliding down an inclined solid substrate. Conventional wisdom suggests that shaking the substrate in the vertical direction would cause the drop to move faster downhill or fly off entirely. However, experiments show that drops given enough of a shake can climb uphill, against gravity. But what enabled this climbing was not previously understood. We performed an asymptotic analysis of the governing equations, which revealed the climbing mechanism to be the nonlinear interaction of vibration modes in the drop’s free surface. Our future research will examine the effect of CAH on the migration of droplets over substrates, especially under vibration.
 
-**Nanofabricated "Smart Tips"**.
+*Sinking bubbles*
+
+Our research on multiphase flow explores the motion of two inter-penetrating phases. It has long been known that the bubbles in stout beers sink for about two minutes in a freshly poured pint of Guinness. However, the mechanism that causes the bubbles to sink remained a mystery. Our research revealed that the glass geometry and bubble size conspire to sink the bubbles. Based on this work, we are currently developing a theory of vortex-based microparticle capture, which may be useful to filter microplastics from
+the ocean. Our future research will elucidate the mechanism that causes waves (such as the remarkable “Guinness cascade”) to form in multiphase flow.
+
+**Biological flows**.
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"}
-One of the  projects back from my job-proposal is to develop nanofabricated STM tips. The idea behind these “smart tips” is to use the technologies that were developed over decades in nanofabrication and make them available for scanning probe by using a nano-device instead of the traditional STM tungsten tip. One gains the flexibility of using different functionalities that are known from the fields of nanofabrication and mesoscopic physics. We are collaborating with the group Simon Groeblacher at TU Delft to realize this concept, benefitting from their unparalleled micro/nano fabrication know how.  A prototype of a smart tip is shown to the left. See publications in Microsyst Nanoeng, Nanotechnology, and PRB.
+Evolution finds ingenious ways to achieve locomotion through fluids at a wide range of Reynolds numbers (Re): from corkscrewing spermatozoa to the autorotation of maple seeds. Our research focuses on the interplay between low- and intermediate-Re regimes, where we aim to uncover the convergent hydrodynamic strategies to propulsion that nature has evolved.
 
-**Josephson STM.** Josephson STM has the ability to gain insight into spatial variations of the order parameter, or superfluid density. We have managed to, for the first time, use JSTM with atomic resolution on a quantum material.
-We have used atomic-resolution Josephson scanning tunneling microscopy to reveal a strongly inhomogeneous superfluid in the iron-based superconductor FeTe0.55Se0.45. The results and their implications are published in Nature.
+Our research on the flight of lightweight seeds uses analytical (boundary integral methods), numerical (direct numerical simulations), and physical modelling (wind tunnel tests) to uncover their incredibly efficient flight mechanism. Our groundbreaking research revealed an entirely new class of vortex, which enhances the flight capacity of the seed. We aim to explore the interplay between the two Re regimes, which will uncover novel strategies for locomotion, and may underlie weight reduction and particle retention of biological and man-made structures. This is of fundamental importance to the navigation of microrobots used for human diagnostics and offers a particle capture solution to the microplastics that litter the Earth’s oceans.
 
-We also detected and investigated a quite particular YSR state in the same material.
+**Wave-structure interaction** Wave energy is a promising technology to tackle the energy “grand challenges” facing the planet. My research in wave energy focuses on the hydrodynamics of Wave Energy Converters (WECs).16–19 Simplified hydrodynamic models (Boundary Element Methods, BEMs) are currently used to model the dynamics of WECs. However, this approach neglects viscous effects, and overestimates the power capture of WECs, particularly in resonant conditions (solid curves in Fig. 3).
 
-**Ultra-stable SI-STM instrument.**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/STMHead.png){: style="width: 250px; float: right; margin: 0px 10px"}
-For SI-STM, having the most stable STM head is key. We have used finite element simulations, good choices in material science, and craftsmanship to build the most stable STM head in the world, to our knowledge. See publication in RSI.
+By including the effects of viscosity in BEMs,18, 19 my research leads the way forward for the modelling of WECs, giving realistic power predictions (broken curves in Fig. 3),
+without the need for CFD. 
 
-
-**Strange Metals.** The strange metal phase might be the most mysterious phase of high-temperature superconductors. Here, the electrical resistivity grows linearly with temperature T in large areas of the phase diagram, with a mean free path that diminishes to a fraction of the interatomic distance. T-linear resistivity is often associated with quantum critical points and marginal-Fermi-liquid physics. In strange metals, the mystery seems to go even further: we deal with something that looks like a quantum critical phase over an extended range of the phase diagram instead of cumulating in a point. There exists no consistent theory for strange metals, leading to more adventurous new approaches including the holographic theories that use insights from gravity to explain strange metals (a recent textbook on this was written by our colleagues at Leiden University, Schalm and Zaanen).
-We are part of the 'Strange Metal consortium NL' that includes the groups of Hussey, Golden, van Heumen, Zaanen, Schalm, Stoof and Vandoren. 
-
-**Magnetic fluctuations and electron spin resonance.**
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SpinFluc.png){: style="width: 70%; float: center; margin: 10px"}
-
-**Twisted bilayer graphene and other material with super-periodicities.**
-We have proposed that artificial super-periodicities can lead to improved superconductivity, both because of increased density of states and because of phase space arguments (see image from our SciPost publication below). Perhaps for different reasons, twisted bilayer graphene has been shown to superconduct! We are investigate this material with the groups of Efetov, Baumberger, and van der Molen.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
 
