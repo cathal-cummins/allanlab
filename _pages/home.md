@@ -57,3 +57,6 @@ We develop mathematical models to explain some puzzling behaviour in fluid mecha
  **We are looking for passionate new PhD students, Postdocs, and Master's students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_HW.png" style="width: 210px">
+</figure>
