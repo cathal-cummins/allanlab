@@ -58,6 +58,6 @@ We develop mathematical models to explain some puzzling behaviour in fluid mecha
 
 
 <figure class="fourth">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Maxwell.png" style="height: 80px">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_HW.png" style="height: 80px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Maxwell.png" style="height: 80px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_HW.png" style="height: 80px">
 </figure>
