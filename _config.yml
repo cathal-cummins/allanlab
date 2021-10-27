@@ -10,8 +10,12 @@ title: The Contraflow Group
 email: c.cummins@hw.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
   This is the homepage of the Contraflow Group.
-baseurl: "contraflow"
-url: "https://cathal-cummins.github.io/"
+baseurl: "~cc185"
+url: "http://www.macs.hw.ac.uk/~cc185"
+
+#baseurl: "contraflow"
+#url: "https://cathal-cummins.github.io/"
+
 
 include:
   - .htaccess
