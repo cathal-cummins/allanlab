@@ -9,14 +9,21 @@
   education4: Postdoc University of Edinburgh with <a href="https://voilab.eng.ed.ac.uk/">Ignazio Maria Viola</a> and <a href="https://www.bfflab.org/">Naomi Nakayama (now at Imperial)</a>
   education5: Conway Medal (UCD), MASCI Scholar (UL)
 
-- name: Ibrahim Mohammed
-  photo: ibrahim.jpg
-  info: PhD Student, started September 2021
+- name: Mary Eby
+  photo: Mary.jpg
+  info: PhD Student, started September 2022
   email: b
-  number_educ: 3
-  education1: MSc Mathematics, Bayero University, Kano
-  education2: BTech(Hons) Mathematics, Abubakar Tafawa Balewa University, Bauchi
-  education3: Supported by a <a href="https://ptdf.gov.ng/">PTDF</a> scholarship
+  number_educ: 1
+  education3: <a href="https://www.mac-migs.ac.uk/">MAC-MIGS CDT</a> student
+
+
+- name: Christopher Wakefield
+  photo: Christopher.jpg
+  info: PhD Student, started May 2022
+  email: cjpw2000@hw.ac.uk
+  number_educ: 2
+  education1: MEng Mechanical Engineering, University of Cambridge, United Kingdom
+  education3: Supported by a <a href="https://www.hw.ac.uk/study/fees/scholarships-bursaries.htm/">James Watt scholarship</a>
 
 - name: Benjian Song
   photo: Benjian.jpg
