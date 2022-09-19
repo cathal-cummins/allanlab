@@ -14,7 +14,7 @@
   info: PhD Student, started September 2022
   email: b
   number_educ: 1
-  education3: <a href="https://www.mac-migs.ac.uk/">MAC-MIGS CDT</a> student
+  education1: <a href="https://www.mac-migs.ac.uk/">MAC-MIGS CDT</a> student
 
 
 - name: Christopher Wakefield
@@ -23,7 +23,7 @@
   email: cjpw2000@hw.ac.uk
   number_educ: 2
   education1: MEng Mechanical Engineering, University of Cambridge, United Kingdom
-  education3: Supported by a <a href="https://www.hw.ac.uk/study/fees/scholarships-bursaries.htm/">James Watt scholarship</a>
+  education2: Supported by a <a href="https://www.hw.ac.uk/study/fees/scholarships-bursaries.htm/">James Watt scholarship</a>
 
 - name: Benjian Song
   photo: Benjian.jpg
