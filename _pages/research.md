@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-Our research is in interdisciplinary fluid mechanics, and we specialise in the interaction of fluids with solid bodies; in particular, those that lead to counter-intuitice flow phenomena and the formation of coherent flow structures. Our research has three overarching themes: (A) Biological flows, (B) interfacial and multiphase flows, and (C) wave-structure interaction. Our research methods are characterised by the use of analytical, numerical, and physical modelling.
+Our research is in interdisciplinary fluid mechanics, and we specialise in the interaction of fluids with solid bodies; in particular, those that lead to counter-intuitive flow phenomena and the formation of coherent flow structures. Our research has three overarching themes: (A) Biological flows, (B) interfacial and multiphase flows, and (C) wave-structure interaction. Our research methods are characterised by the use of analytical, numerical, and physical modelling.
 
 
 
@@ -21,7 +21,7 @@ Our research on the flight of lightweight seeds uses analytical (boundary integr
 
 
 **Interfacial and multiphase flows**. ![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/dispersion.png){: style="width: 250px; float: right; margin: 0px  10px"} 
-When two or more phases meet, the resulting interface forms a capillary surface such a bubble, drop, or liquid bridge. Our research on drops and liquid bridges focuses on the effect of the contact line (the curve forming the triple fluid-gas-solid interface) on the dynamics of the capillary surface. Our research on multiphase flows explores the dynamics of bubbles in buoyancy-driven flows and the dispersion of respiratory droplets, with applications for the spread of infections diseases.
+When two or more phases meet, the resulting interface forms a capillary surface such a bubble, drop, or liquid bridge. Our research on drops and liquid bridges focuses on the effect of the contact line (the curve forming the triple fluid-gas-solid interface) on the dynamics of the capillary surface. Our research on multiphase flows explores the dynamics of bubbles in buoyancy-driven flows and the dispersion of respiratory droplets, with applications for the spread of infectious diseases.
 
 
 *Infinite liquid bridges*.
@@ -37,5 +37,6 @@ the ocean. Our future research will elucidate the mechanism that causes waves (s
 
 
 **Wave-structure interaction** ![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/Oyster.png){: style="width: 250px; float: right; margin: 0px  10px"} Wave energy is a promising technology to tackle the energy “grand challenges” facing the planet. Our research in wave energy focuses on the hydrodynamics of Wave Energy Converters (WECs). Simplified hydrodynamic models (Boundary Element Methods, BEMs) are currently used to model the dynamics of WECs. However, this approach neglects viscous effects, and overestimates the power capture of WECs, particularly in resonant conditions. We pioneer a method that includes effects of viscosity in BEM, which leads the way forward for the modelling of WECs, giving realistic power predictions without the need for CFD. 
+
 
 ### ... and more.
